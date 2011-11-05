@@ -1,0 +1,103 @@
+
+
+<html>
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title></title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/css.css" type="text/css">
+<link rel="StyleSheet" href="css/dtree.css" type="text/css" />
+<script type="javascript">
+function login(){
+   	document.forms[0].action = "loginAction.do?zjh="+document.forms[0].zjh.value+"&mm="+document.forms[0].mm.value+"&yhlbdm="+document.forms[0].yhlbdm.value;
+        document.forms[0].submit();
+}
+</script>
+
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/back1.jpg);
+}
+-->
+</style>
+<link href="style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.STYLE3 {
+	font-size: x-large;
+	font-weight: bold;
+}
+-->
+</style>
+<body>
+<form name="loginForm" method="post" action="http://202.205.88.60:8888/forward.jsp" >
+  <table width="92%" height="549" align="center">
+    <tr>
+      <td width="2%" rowspan="3" background="images/back2.jpg">&nbsp;</td> 
+      <td width="98%" height="72"> <h6 align="center"><font color="#0000FF"></font></h6>
+        <p align="center" class="imgfloat STYLE3">山寨版农大选课及成绩查询登陆系统 陈思制作</p>
+        <p align="center">&nbsp;</p>
+        <p align="center">我们的口号是：拒绝排队 享受快捷！</p></td>
+    </tr>
+    <tr>
+      <td height="20"> <h6 align="center">&nbsp;</h6>
+        
+        <div align="center">
+          <table width="33%" height="118"  border="0" align="center" cellpadding="0" cellspacing="1">
+            <tr> 
+              <td align="right" width="30%%"> 用 户 名: </td>
+              <td align="center" width="40%"> <input type="text" name="zjh"  value=""/> 
+              </td>
+            </tr>
+            <tr> 
+              
+            <td align="right" width="30%%">密　　码: </td>
+              <td align="center" width="40%"> <input type="password" name="mm"  value=""/> 
+              </td>
+            </tr>
+            <tr> 
+              <td align="right" width="30%%"> 用户类别: </td>
+              <td align="center" width="40%"> <input type=hidden name="yhlbdm" value="01">
+               <option value="01">普通学生</option> <br>
+           </td>
+              <td  width="30%" align="left"> <input type="submit" name="bt"  value="确定" class="input1" onClick="login()"/> 
+              </td>
+            </tr>
+          </table>
+        </div></td>
+    </tr>
+    <tr>
+      <td height="129"> <div align="center"> 
+          
+        <ul>
+          <li> 
+            <div align="left">各位同学，从2007年9月10日起，新的本科生信息管理系统正式启用，该系统可为同学们提供：个人信息查询更改、培养方案查询、教学计划查询、选课、成绩查询等多项服务，方便同学们随时了解在校期间的学习信息。<br>
+            </div>
+          </li>
+          <li> 
+             
+              <div align="left">新版系统使用与旧版系统相同的用户名和密码，请同学们定期修改密码。如果密码有误，请携带学生证到<strong>所在学院</strong>教务办公室查询。</div>
+          </li>
+          <li>
+            <div align="left">该系统的功能是可以帮助大家免除排队的困扰，最终大家依然是登陆到学校的系统，只是跳过了排队这一步而已。该系统不会记录您的任何信息，请放心使用！</div>
+          </li>
+        </ul>
+        </div></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td> 
+      <td height="68"> 
+        <div align="center"> 
+          
+        <ul>
+          <h3 align="center"><font color="#000000"> </font></h3>
+        </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+<p>&nbsp;</p></form>
+</body>
+</html>

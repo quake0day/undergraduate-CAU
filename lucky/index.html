@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>欢迎使用投票系统</title>
+<script language="JavaScript">
+function check_name()
+{
+	if(login.user_name.value=="")
+	{
+		alert("请输入你的名字！");
+		return false;
+	}
+}
+</script>
+<style type="text/css">
+<!--
+#apDiv1 {
+	position:absolute;
+	left:78px;
+	top:97px;
+	width:400px;
+	height:156px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:313px;
+	top:151px;
+	width:594px;
+	height:285px;
+	z-index:1;
+}
+.STYLE1 {color: #FF0000}
+.STYLE2 {font-size: larger}
+.STYLE3 {
+	font-size: larger;
+	color: #FF0000;
+	font-weight: bold;
+}
+.STYLE5 {color: #FF0000; font-weight: bold; }
+-->
+</style>
+</head>
+
+<body>
+<div id="apDiv2">
+  <p class="STYLE3">注意事项：</p>
+  <p class="STYLE2">	1、一定要填写<span class="STYLE3"><strong>自己的</strong></span><span class="STYLE5">真实姓名</span>，不要打错字或者输入错，每个人只有一次机会，出现问题联系陈思。</p>
+  <p class="STYLE2">2、每个人<span class="STYLE1">只能抽一次签</span>，请不要多抽签，如果出现则按第一次所得的点数为准。</p>
+  <p class="STYLE2">3、不要替<span class="STYLE1">别人</span>抽签</p>
+  <p class="STYLE2">4、这个系统第一次使用，还有很多不足，如果使用时出现问题的话班长会另外组织大家抽实物签。</p>
+  <p class="STYLE2">5、如不出意外，我们将把赠票发给<span class="STYLE1">点数由大到小排在前三</span>的测控061的同学</p>
+  <p class="STYLE2">6、此活动的最终解释权归齐霁阳</p>
+</div>
+<form name="login" action="1.php" method="POST" onSubmit="return check_name()">
+<table width="443" height="113" border="0" align="center">
+<tr>
+	<td width="89" class="tb1"><strong>你的姓名</strong>:</td>
+	<td width="344"><input type="text" name="user_name"></td>
+</tr>
+<tr>
+	<td><input type="submit" value="开始抽签"></td>
+</tr>
+</table>
+</form>
+</body>
+</html>

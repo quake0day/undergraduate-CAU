@@ -1,0 +1,56 @@
+<link rel="stylesheet" href="images/Envision.css" type="text/css" />
+<link rel="stylesheet" href="images/Envision.css" type="text/css" />
+{%load change_gender%}
+
+<div id="header">	
+<h1 id="logo-text">曲辰成员联系方式</h1>	
+<hr>
+<div id="wrap">
+<div id="sidebar">
+	<table border="0" width="500">
+	<tr align="right"><td>
+					<h3>请输入你要查找的人的姓名</h3>	
+				<form method="get" class="searchform" action="/address/search/">
+					<p>
+					<input name="search" class="textbox" type="text" value="{{searchvalue}}"/>
+  					<input name="" class="button" value="搜索" type="submit" />
+					</p>			
+				</form>	
+	
+	</td></tr>
+	</table>
+	</div>
+<hr>
+<table border="0" width="500">
+<tr align="right">
+	<td class="first">{%if has_previous%}
+	<a href="/address?page={{previous}}">上一页</a>
+	{% endif %}{% if has_next %}
+	<a href="/address?page={{ next }}">下一页</a>
+	{% endif %}</td></tr>
+<table>
+<br />
+				<h3>通讯录</h3>
+							
+				<table>
+					<tr>
+						<th class="first"><strong>Name</strong></th>
+						<th>Sex</th>
+						<th>Phone</th>
+                        <th>CELLPHONE</th>
+                        <th>ROOM</th>
+					</tr>
+					{%for person in object_list%}
+
+					
+					<tr class="row-a">
+                  <td class="first">{{person.name}}</td>
+                  <td>{{person.gender|change_gender}}</td>
+                  <td>{{person.telphone}}</td>
+                  <td>{{person.mobile}}</td>
+                  <td>{{person.room}}</td>
+                  </tr>
+				  {%endfor%}
+				</table>
+				
+				<p><a href="/address/output/">导出通讯录</a></p>

@@ -1,0 +1,568 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0096)http://202.205.88.60:8888/gradeLnAllAction.do?type=ln&oper=qbinfo&lnxndm=2008-2009学年秋(三学期) -->
+<TD valign="top"><HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=gb2312"><LINK 
+href="gradeLnAllAction3.files/style.css" type=text/css rel=stylesheet></STYLE>
+<META content="MSHTML 6.00.2900.5726" name=GENERATOR></HEAD>
+<BODY><A name=2006-2007学年秋(三学期)>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD class=td_bj_photo>2006-2007学年秋(三学期)</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=3 width="100%" align=center bgColor=#a9c8f1 
+border=0>
+  <TBODY>
+  <TR bgColor=#deeafa>
+    <TD class=td_k>课程号 </TD>
+    <TD class=td_k>课序号 </TD>
+    <TD class=td_k>课程名 </TD>
+    <TD class=td_k>英文课程名 </TD>
+    <TD class=td_k>学分 </TD>
+    <TD class=td_k>课程属性 </TD>
+    <TD class=td_k>成绩 </TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>08111490 </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>机械制图与计算机绘图（上） </TD>
+    <TD class=td_n>Mechanical Drawing and Computer Graphics 1 </TD>
+    <TD class=td_n>3.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>78.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>08131550 </TD>
+    <TD class=td_n>92 </TD>
+    <TD class=td_n>大学计算机基础（二） </TD>
+    <TD class=td_n>Basis of College Computer Engineering 2 </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>85.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10110190 </TD>
+    <TD class=td_n>8 </TD>
+    <TD class=td_n>高等数学（B，上） </TD>
+    <TD class=td_n>Advanced Mathematics (B)-1 </TD>
+    <TD class=td_n>6 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>73.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10110380 </TD>
+    <TD class=td_n>13 </TD>
+    <TD class=td_n>线性代数（B） </TD>
+    <TD class=td_n>Linear Algebra (B) </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>95.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12112890 </TD>
+    <TD class=td_n>18 </TD>
+    <TD class=td_n>大学英语（一） </TD>
+    <TD class=td_n>College English (1) </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>69.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12113070 </TD>
+    <TD class=td_n>10 </TD>
+    <TD class=td_n>思想道德修养与法律基础 </TD>
+    <TD class=td_n>Ideology Morality &amp; Law Basis </TD>
+    <TD class=td_n>2 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>89.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>16130084 </TD>
+    <TD class=td_n>134 </TD>
+    <TD class=td_n>篮球（1） </TD>
+    <TD class=td_n>Basketball (1) </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>83.0&nbsp;</P></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f2f2f2 
+      height=21>最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;22.5&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;7&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;7 
+    </TD></TR></TBODY></TABLE><A name=2006-2007学年春(三学期)><LINK 
+href="gradeLnAllAction3.files/style.css" type=text/css rel=stylesheet></STYLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD class=td_bj_photo>2006-2007学年春(三学期)</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=3 width="100%" align=center bgColor=#a9c8f1 
+border=0>
+  <TBODY>
+  <TR bgColor=#deeafa>
+    <TD class=td_k>课程号 </TD>
+    <TD class=td_k>课序号 </TD>
+    <TD class=td_k>课程名 </TD>
+    <TD class=td_k>英文课程名 </TD>
+    <TD class=td_k>学分 </TD>
+    <TD class=td_k>课程属性 </TD>
+    <TD class=td_k>成绩 </TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>07130817 </TD>
+    <TD class=td_n>0 </TD>
+    <TD class=td_n>测控技术概论 </TD>
+    <TD class=td_n>Introduction to Mesusurement and Controlling Technology </TD>
+    <TD class=td_n>1.5 </TD>
+    <TD class=td_n>限选 </TD>
+    <TD class=td_n>
+      <P align=left>89.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>08110140 </TD>
+    <TD class=td_n>95 </TD>
+    <TD class=td_n>C语言程序设计 </TD>
+    <TD class=td_n>C Programming Language </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>83.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>08111500 </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>机械制图与计算机绘图（下） </TD>
+    <TD class=td_n>Mechanical Drawing and Computer Graphics 2 </TD>
+    <TD class=td_n>3.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>72.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>09130047 </TD>
+    <TD class=td_n>90 </TD>
+    <TD class=td_n>建筑艺术评论与欣赏 </TD>
+    <TD class=td_n>Critism and Appreciation on Architecture Art </TD>
+    <TD class=td_n>1.5 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>88.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10110010 </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>大学物理C（上） </TD>
+    <TD class=td_n>College Physics C-1 </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>67.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10110200 </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>高等数学（B，下） </TD>
+    <TD class=td_n>Advanced Mathematics (B)-2 </TD>
+    <TD class=td_n>5.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>75.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12112900 </TD>
+    <TD class=td_n>17 </TD>
+    <TD class=td_n>大学英语（二） </TD>
+    <TD class=td_n>College English (2) </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>75.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12113050 </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>中国近现代史纲要 </TD>
+    <TD class=td_n>Guideline of Chinese Modern History </TD>
+    <TD class=td_n>2 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>74.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12113110 </TD>
+    <TD class=td_n>0 </TD>
+    <TD class=td_n>形势与政策 </TD>
+    <TD class=td_n>Situation and Policy </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>中等&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12132100 </TD>
+    <TD class=td_n>91 </TD>
+    <TD class=td_n>花卉艺术（初级） </TD>
+    <TD class=td_n>Floriculture Art (Elementary) </TD>
+    <TD class=td_n>2 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>93.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>16130284 </TD>
+    <TD class=td_n>98 </TD>
+    <TD class=td_n>体育舞蹈（2） </TD>
+    <TD class=td_n>Sports Dancing (2) </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>88.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>54130021 </TD>
+    <TD class=td_n>90 </TD>
+    <TD class=td_n>金庸小说之批判 </TD>
+    <TD class=td_n>Criticism of Jinyong Novel </TD>
+    <TD class=td_n>1.5 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>良好&nbsp;</P></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f2f2f2 
+      height=21>最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;30.5&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;12&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;12 
+    </TD></TR></TBODY></TABLE><A name=2006-2007学年夏(三学期)><LINK 
+href="gradeLnAllAction3.files/style.css" type=text/css rel=stylesheet></STYLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD class=td_bj_photo>2006-2007学年夏(三学期)</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=3 width="100%" align=center bgColor=#a9c8f1 
+border=0>
+  <TBODY>
+  <TR bgColor=#deeafa>
+    <TD class=td_k>课程号 </TD>
+    <TD class=td_k>课序号 </TD>
+    <TD class=td_k>课程名 </TD>
+    <TD class=td_k>英文课程名 </TD>
+    <TD class=td_k>学分 </TD>
+    <TD class=td_k>课程属性 </TD>
+    <TD class=td_k>成绩 </TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>07140030 </TD>
+    <TD class=td_n>400 </TD>
+    <TD class=td_n>专业认识实习 </TD>
+    <TD class=td_n>Practice for the Recognition of Specialties </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>85.0&nbsp;</P></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f2f2f2 
+      height=21>最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;1.0&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;1&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;1 
+    </TD></TR></TBODY></TABLE><A name=2007-2008学年秋(三学期)><LINK 
+href="gradeLnAllAction3.files/style.css" type=text/css rel=stylesheet></STYLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD class=td_bj_photo>2007-2008学年秋(三学期)</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=3 width="100%" align=center bgColor=#a9c8f1 
+border=0>
+  <TBODY>
+  <TR bgColor=#deeafa>
+    <TD class=td_k>课程号 </TD>
+    <TD class=td_k>课序号 </TD>
+    <TD class=td_k>课程名 </TD>
+    <TD class=td_k>英文课程名 </TD>
+    <TD class=td_k>学分 </TD>
+    <TD class=td_k>课程属性 </TD>
+    <TD class=td_k>成绩 </TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>06130617 </TD>
+    <TD class=td_n>90 </TD>
+    <TD class=td_n>天然功能成分提取与应用 </TD>
+    <TD class=td_n>Extraction and Utilization of Natural Functional Components 
+    </TD>
+    <TD class=td_n>1.5 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>78.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>07110130 </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>电工技术 </TD>
+    <TD class=td_n>Electric Technique </TD>
+    <TD class=td_n>3.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>88.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10110020 </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>大学物理实验（工科，上） </TD>
+    <TD class=td_n>College Physics Experimentation 1 </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>92.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10110420 </TD>
+    <TD class=td_n>2 </TD>
+    <TD class=td_n>大学物理C（下） </TD>
+    <TD class=td_n>College Physics C-2 </TD>
+    <TD class=td_n>3.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>83.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10111320 </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>工程力学B </TD>
+    <TD class=td_n>Engineering Mechanics B </TD>
+    <TD class=td_n>3.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>83.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10111390 </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>复变函数与积分变换 </TD>
+    <TD class=td_n>Functions of Complex Variables &amp; Integral 
+      Transformation </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>82.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>11131392 </TD>
+    <TD class=td_n>90 </TD>
+    <TD class=td_n>广告学 </TD>
+    <TD class=td_n>Advertisement </TD>
+    <TD class=td_n>1.5 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>83.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12110440 </TD>
+    <TD class=td_n>13 </TD>
+    <TD class=td_n>大学英语（三） </TD>
+    <TD class=td_n>College English (3) </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>63.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12113060 </TD>
+    <TD class=td_n>5 </TD>
+    <TD class=td_n>毛泽东思想、邓小平理论和“三个代表”重要思想概论 </TD>
+    <TD class=td_n>Conspectus of Maozedong’s ideologies Dengxiaoping’s 
+      theories and Three-deputy important theories </TD>
+    <TD class=td_n>3.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>77.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12113080 </TD>
+    <TD class=td_n>12 </TD>
+    <TD class=td_n>马克思主义基本原理 </TD>
+    <TD class=td_n>Marxism Basic Principles </TD>
+    <TD class=td_n>2.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>84.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>16130604 </TD>
+    <TD class=td_n>5 </TD>
+    <TD class=td_n>健美操（3） </TD>
+    <TD class=td_n>Aerobics (3) </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>81.0&nbsp;</P></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f2f2f2 
+      height=21>最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;28.5&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;11&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;11 
+    </TD></TR></TBODY></TABLE><A name=2007-2008学年春(三学期)><LINK 
+href="gradeLnAllAction3.files/style.css" type=text/css rel=stylesheet></STYLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD class=td_bj_photo>2007-2008学年春(三学期)</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=3 width="100%" align=center bgColor=#a9c8f1 
+border=0>
+  <TBODY>
+  <TR bgColor=#deeafa>
+    <TD class=td_k>课程号 </TD>
+    <TD class=td_k>课序号 </TD>
+    <TD class=td_k>课程名 </TD>
+    <TD class=td_k>英文课程名 </TD>
+    <TD class=td_k>学分 </TD>
+    <TD class=td_k>课程属性 </TD>
+    <TD class=td_k>成绩 </TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>07110060 </TD>
+    <TD class=td_n>01 </TD>
+    <TD class=td_n>机械设计基础 </TD>
+    <TD class=td_n>Basis of Mechanical Design </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>90.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>07140010 </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>金工实习（B） </TD>
+    <TD class=td_n>Metalworking Practice B </TD>
+    <TD class=td_n>2 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>78.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>08110770 </TD>
+    <TD class=td_n>01 </TD>
+    <TD class=td_n>模拟电子技术B </TD>
+    <TD class=td_n>Analog Electronic Technology B </TD>
+    <TD class=td_n>3.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>66.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>08111790 </TD>
+    <TD class=td_n>01 </TD>
+    <TD class=td_n>C++程序设计 </TD>
+    <TD class=td_n>C++ Programming </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>93.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10111570 </TD>
+    <TD class=td_n>01 </TD>
+    <TD class=td_n>概率论与数理统计（C） </TD>
+    <TD class=td_n>Probability Theory &amp;Mathematical Statistics （C） </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>75.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>11130072 </TD>
+    <TD class=td_n>90 </TD>
+    <TD class=td_n>期货贸易B </TD>
+    <TD class=td_n>Futures Trade B </TD>
+    <TD class=td_n>1.5 </TD>
+    <TD class=td_n>任选 </TD>
+    <TD class=td_n>
+      <P align=left>优秀&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>12110450 </TD>
+    <TD class=td_n>06 </TD>
+    <TD class=td_n>大学英语（四） </TD>
+    <TD class=td_n>College English (4) </TD>
+    <TD class=td_n>4 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>77.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>16130234 </TD>
+    <TD class=td_n>33 </TD>
+    <TD class=td_n>健美操（2） </TD>
+    <TD class=td_n>Aerobics (2) </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>选修 </TD>
+    <TD class=td_n>
+      <P align=left>85.0&nbsp;</P></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f2f2f2 
+      height=21>最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;23.0&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;8&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;8 
+    </TD></TR></TBODY></TABLE><A name=2007-2008学年夏(三学期)><LINK 
+href="gradeLnAllAction3.files/style.css" type=text/css rel=stylesheet></STYLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD class=td_bj_photo>2007-2008学年夏(三学期)</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=3 width="100%" align=center bgColor=#a9c8f1 
+border=0>
+  <TBODY>
+  <TR bgColor=#deeafa>
+    <TD class=td_k>课程号 </TD>
+    <TD class=td_k>课序号 </TD>
+    <TD class=td_k>课程名 </TD>
+    <TD class=td_k>英文课程名 </TD>
+    <TD class=td_k>学分 </TD>
+    <TD class=td_k>课程属性 </TD>
+    <TD class=td_k>成绩 </TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>07140060 </TD>
+    <TD class=td_n>1 </TD>
+    <TD class=td_n>机械设计基础课程设计（B） </TD>
+    <TD class=td_n>Course Design of Mechanical Design Basis (B) </TD>
+    <TD class=td_n>2 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>优秀&nbsp;</P></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f2f2f2 
+      height=21>最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;2.0&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;1&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;1 
+    </TD></TR></TBODY></TABLE><A name=2008-2009学年秋(三学期)><LINK 
+href="gradeLnAllAction3.files/style.css" type=text/css rel=stylesheet></STYLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD class=td_bj_photo>2008-2009学年秋(三学期)</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=1 cellPadding=3 width="100%" align=center bgColor=#a9c8f1 
+border=0>
+  <TBODY>
+  <TR bgColor=#deeafa>
+    <TD class=td_k>课程号 </TD>
+    <TD class=td_k>课序号 </TD>
+    <TD class=td_k>课程名 </TD>
+    <TD class=td_k>英文课程名 </TD>
+    <TD class=td_k>学分 </TD>
+    <TD class=td_k>课程属性 </TD>
+    <TD class=td_k>成绩 </TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>07110610 </TD>
+    <TD class=td_n>01 </TD>
+    <TD class=td_n>机械工程控制基础 </TD>
+    <TD class=td_n>Mechanical Engineering Control Theory </TD>
+    <TD class=td_n>2.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>83.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>07111270 </TD>
+    <TD class=td_n>01 </TD>
+    <TD class=td_n>机械制造基础 </TD>
+    <TD class=td_n>Basis of Machine Manufature </TD>
+    <TD class=td_n>2.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>84.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>07111410 </TD>
+    <TD class=td_n>01 </TD>
+    <TD class=td_n>微机原理及接口技术 </TD>
+    <TD class=td_n>Principles of Microcomprter and Interface Technology </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>85.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>08111600 </TD>
+    <TD class=td_n>01 </TD>
+    <TD class=td_n>数字电子技术 </TD>
+    <TD class=td_n>Digit Electron Technology </TD>
+    <TD class=td_n>3.5 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>87.0&nbsp;</P></TD></TR>
+  <TR bgColor=#ffffff>
+    <TD class=td_n>10111580 </TD>
+    <TD class=td_n>01 </TD>
+    <TD class=td_n>工程光学基础 </TD>
+    <TD class=td_n>Basis of Engineering Optics </TD>
+    <TD class=td_n>3 </TD>
+    <TD class=td_n>必修 </TD>
+    <TD class=td_n>
+      <P align=left>60.0&nbsp;</P></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f2f2f2 
+      height=21>最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;14.5&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;5&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;5 
+    </TD></TR></TBODY></TABLE></TD></A></BODY></HTML>

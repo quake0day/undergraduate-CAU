@@ -1,0 +1,1735 @@
+
+
+
+
+
+
+
+	
+    <td valign="top">
+        
+    	<a name="2006-2007学年秋(三学期)" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+ </STYLE>
+	<table width="100%" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td class=td_bj_photo>2006-2007学年秋(三学期)</td>
+                      </tr>
+         </table>
+          <table  width="100%" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#A9C8F1">
+                      <tr bgcolor="#DEEAFA">
+             
+       		<td class="td_k">
+                    课程号
+           	</td>
+           
+       		<td class="td_k">
+                    课序号
+           	</td>
+           
+       		<td class="td_k">
+                    课程名
+           	</td>
+           
+       		<td class="td_k">
+                    英文课程名
+           	</td>
+           
+       		<td class="td_k">
+                    学分
+           	</td>
+           
+       		<td class="td_k">
+                    课程属性
+           	</td>
+           
+       		<td class="td_k">
+                    成绩
+           	</td>
+           
+	</tr>
+          
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                08131550
+            </td>
+            <td class="td_n">
+            	 90
+            </td>
+            <td class="td_n">
+                 大学计算机基础（二）
+            </td>
+            <td class="td_n">
+                 Basis of College Computer Engineering 2
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">97.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                10110190
+            </td>
+            <td class="td_n">
+            	 4
+            </td>
+            <td class="td_n">
+                 高等数学（B，上）
+            </td>
+            <td class="td_n">
+                 Advanced Mathematics (B)-1
+            </td>
+            <td class="td_n">
+                 6
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">91.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                10110380
+            </td>
+            <td class="td_n">
+            	 11
+            </td>
+            <td class="td_n">
+                 线性代数（B）
+            </td>
+            <td class="td_n">
+                 Linear  Algebra (B)
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">96.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110010
+            </td>
+            <td class="td_n">
+            	 4
+            </td>
+            <td class="td_n">
+                 管理学原理
+            </td>
+            <td class="td_n">
+                 Management Science Principle
+
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">89.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12110150
+            </td>
+            <td class="td_n">
+            	 8
+            </td>
+            <td class="td_n">
+                 马克思主义政治经济学
+            </td>
+            <td class="td_n">
+                 Marxist Political Economy
+            </td>
+            <td class="td_n">
+                 2.5
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">93.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12112900
+            </td>
+            <td class="td_n">
+            	 6
+            </td>
+            <td class="td_n">
+                 大学英语（二）
+            </td>
+            <td class="td_n">
+                 College English (2)
+
+            </td>
+            <td class="td_n">
+                 4
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">92.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12113070
+            </td>
+            <td class="td_n">
+            	 6
+            </td>
+            <td class="td_n">
+                 思想道德修养与法律基础
+            </td>
+            <td class="td_n">
+                 Ideology Morality & Law Basis
+
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">84.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12130371
+            </td>
+            <td class="td_n">
+            	 92
+            </td>
+            <td class="td_n">
+                 合唱艺术
+            </td>
+            <td class="td_n">
+                 Choral Arts
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">94.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                16130144
+            </td>
+            <td class="td_n">
+            	 134
+            </td>
+            <td class="td_n">
+                 乒乓球（1）
+            </td>
+            <td class="td_n">
+                 Table Tennis (1)
+            </td>
+            <td class="td_n">
+                 1
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">91.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                17130040
+            </td>
+            <td class="td_n">
+            	 1
+            </td>
+            <td class="td_n">
+                 合唱基础2
+            </td>
+            <td class="td_n">
+                 Choral Basis(2)
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">95.0&nbsp;</P>
+             </td>
+        </tr>
+        
+     </table>
+         <table width="100%" align="center" cellpadding="0" cellspacing="0">
+           <tr>
+       		<td height="21" bgcolor="#F2F2F2">
+                最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;28.5&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;10&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;10
+        	</td>
+           </tr>
+	</table>
+        
+    	<a name="2006-2007学年春(三学期)" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+ </STYLE>
+	<table width="100%" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td class=td_bj_photo>2006-2007学年春(三学期)</td>
+                      </tr>
+         </table>
+          <table  width="100%" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#A9C8F1">
+                      <tr bgcolor="#DEEAFA">
+             
+       		<td class="td_k">
+                    课程号
+           	</td>
+           
+       		<td class="td_k">
+                    课序号
+           	</td>
+           
+       		<td class="td_k">
+                    课程名
+           	</td>
+           
+       		<td class="td_k">
+                    英文课程名
+           	</td>
+           
+       		<td class="td_k">
+                    学分
+           	</td>
+           
+       		<td class="td_k">
+                    课程属性
+           	</td>
+           
+       		<td class="td_k">
+                    成绩
+           	</td>
+           
+	</tr>
+          
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                08131920
+            </td>
+            <td class="td_n">
+            	 94
+            </td>
+            <td class="td_n">
+                 Visual Basic语言程序设计
+            </td>
+            <td class="td_n">
+                 Visual Basic Language Programming 
+
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">95.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                08131940
+            </td>
+            <td class="td_n">
+            	 90
+            </td>
+            <td class="td_n">
+                 Visual Basic语言程序设计（二）
+            </td>
+            <td class="td_n">
+                 Visual Basic Language Programming(2)
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">94.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                09130107
+            </td>
+            <td class="td_n">
+            	 90
+            </td>
+            <td class="td_n">
+                 中外城市比较与欣赏
+            </td>
+            <td class="td_n">
+                 Comparison and Appreciation of Chinese and Foreign Cities
+
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">92.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                10110200
+            </td>
+            <td class="td_n">
+            	 7
+            </td>
+            <td class="td_n">
+                 高等数学（B，下）
+            </td>
+            <td class="td_n">
+                 Advanced Mathematics (B)-2
+            </td>
+            <td class="td_n">
+                 5.5
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">98.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110040
+            </td>
+            <td class="td_n">
+            	 2
+            </td>
+            <td class="td_n">
+                 微观经济学
+            </td>
+            <td class="td_n">
+                 Microeconomics
+            </td>
+            <td class="td_n">
+                 3.5
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">92.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12110440
+            </td>
+            <td class="td_n">
+            	 6
+            </td>
+            <td class="td_n">
+                 大学英语（三）
+            </td>
+            <td class="td_n">
+                 College English (3)
+
+            </td>
+            <td class="td_n">
+                 4
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">90.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12113050
+            </td>
+            <td class="td_n">
+            	 5
+            </td>
+            <td class="td_n">
+                 中国近现代史纲要
+            </td>
+            <td class="td_n">
+                 Guideline of  Chinese Modern History
+
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">87.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12113110
+            </td>
+            <td class="td_n">
+            	 5
+            </td>
+            <td class="td_n">
+                 形势与政策
+            </td>
+            <td class="td_n">
+                 Situation and Policy
+
+            </td>
+            <td class="td_n">
+                 1
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              <p align="left">优秀&nbsp;</P>
+          </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                16130094
+            </td>
+            <td class="td_n">
+            	 124
+            </td>
+            <td class="td_n">
+                 篮球（2）
+            </td>
+            <td class="td_n">
+                 Basketball (2)
+            </td>
+            <td class="td_n">
+                 1
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">95.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                17130190
+            </td>
+            <td class="td_n">
+            	 90
+            </td>
+            <td class="td_n">
+                 合唱基础1
+            </td>
+            <td class="td_n">
+                 Choral Basis(1)
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">95.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                80130037
+            </td>
+            <td class="td_n">
+            	 90
+            </td>
+            <td class="td_n">
+                 文献检索
+            </td>
+            <td class="td_n">
+                 Document Retrieval
+
+            </td>
+            <td class="td_n">
+                 1.5
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              <p align="left">优秀&nbsp;</P>
+          </td>
+        </tr>
+        
+     </table>
+         <table width="100%" align="center" cellpadding="0" cellspacing="0">
+           <tr>
+       		<td height="21" bgcolor="#F2F2F2">
+                最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;26.5&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;11&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;11
+        	</td>
+           </tr>
+	</table>
+        
+    	<a name="2007-2008学年秋(三学期)" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+ </STYLE>
+	<table width="100%" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td class=td_bj_photo>2007-2008学年秋(三学期)</td>
+                      </tr>
+         </table>
+          <table  width="100%" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#A9C8F1">
+                      <tr bgcolor="#DEEAFA">
+             
+       		<td class="td_k">
+                    课程号
+           	</td>
+           
+       		<td class="td_k">
+                    课序号
+           	</td>
+           
+       		<td class="td_k">
+                    课程名
+           	</td>
+           
+       		<td class="td_k">
+                    英文课程名
+           	</td>
+           
+       		<td class="td_k">
+                    学分
+           	</td>
+           
+       		<td class="td_k">
+                    课程属性
+           	</td>
+           
+       		<td class="td_k">
+                    成绩
+           	</td>
+           
+	</tr>
+          
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                10110160
+            </td>
+            <td class="td_n">
+            	 2
+            </td>
+            <td class="td_n">
+                 概率论与数理统计（B）
+            </td>
+            <td class="td_n">
+                 Probability Theory &Mathematical Statistics (B)
+            </td>
+            <td class="td_n">
+                 3.5
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">88.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110020
+            </td>
+            <td class="td_n">
+            	 1
+            </td>
+            <td class="td_n">
+                 会计学原理
+            </td>
+            <td class="td_n">
+                 Accounting Principles
+            </td>
+            <td class="td_n">
+                 3.5
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">84.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110470
+            </td>
+            <td class="td_n">
+            	 2
+            </td>
+            <td class="td_n">
+                 统计学A
+            </td>
+            <td class="td_n">
+                 Statistics
+            </td>
+            <td class="td_n">
+                 3.5
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">91.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110690
+            </td>
+            <td class="td_n">
+            	 1
+            </td>
+            <td class="td_n">
+                 宏观经济学　
+            </td>
+            <td class="td_n">
+                 Macroeconomics
+            </td>
+            <td class="td_n">
+                 3.5
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">84.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12110450
+            </td>
+            <td class="td_n">
+            	 1
+            </td>
+            <td class="td_n">
+                 大学英语（四）
+            </td>
+            <td class="td_n">
+                 College English (4)
+            </td>
+            <td class="td_n">
+                 4
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">93.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12113060
+            </td>
+            <td class="td_n">
+            	 9
+            </td>
+            <td class="td_n">
+                 毛泽东思想、邓小平理论和“三个代表”重要思想概论
+            </td>
+            <td class="td_n">
+                 Conspectus of Maozedong’s ideologies Dengxiaoping’s theories and Three-deputy important theories
+            </td>
+            <td class="td_n">
+                 3.5
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">85.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12113080
+            </td>
+            <td class="td_n">
+            	 9
+            </td>
+            <td class="td_n">
+                 马克思主义基本原理
+            </td>
+            <td class="td_n">
+                 Marxism Basic Principles  
+
+            </td>
+            <td class="td_n">
+                 2.5
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">81.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12131601
+            </td>
+            <td class="td_n">
+            	 92
+            </td>
+            <td class="td_n">
+                 初级日语会话
+            </td>
+            <td class="td_n">
+                 Elementary Japaness Dialogue
+
+            </td>
+            <td class="td_n">
+                 4
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">91.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                16130564
+            </td>
+            <td class="td_n">
+            	 11
+            </td>
+            <td class="td_n">
+                 乒乓球（3）
+            </td>
+            <td class="td_n">
+                 Table Tennis (3)
+            </td>
+            <td class="td_n">
+                 1
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">94.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                17130050
+            </td>
+            <td class="td_n">
+            	 90
+            </td>
+            <td class="td_n">
+                 合唱表演2
+            </td>
+            <td class="td_n">
+                 Choral Performances(2)
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">95.0&nbsp;</P>
+             </td>
+        </tr>
+        
+     </table>
+         <table width="100%" align="center" cellpadding="0" cellspacing="0">
+           <tr>
+       		<td height="21" bgcolor="#F2F2F2">
+                最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;31.0&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;10&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;10
+        	</td>
+           </tr>
+	</table>
+        
+    	<a name="2007-2008学年春(三学期)" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+ </STYLE>
+	<table width="100%" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td class=td_bj_photo>2007-2008学年春(三学期)</td>
+                      </tr>
+         </table>
+          <table  width="100%" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#A9C8F1">
+                      <tr bgcolor="#DEEAFA">
+             
+       		<td class="td_k">
+                    课程号
+           	</td>
+           
+       		<td class="td_k">
+                    课序号
+           	</td>
+           
+       		<td class="td_k">
+                    课程名
+           	</td>
+           
+       		<td class="td_k">
+                    英文课程名
+           	</td>
+           
+       		<td class="td_k">
+                    学分
+           	</td>
+           
+       		<td class="td_k">
+                    课程属性
+           	</td>
+           
+       		<td class="td_k">
+                    成绩
+           	</td>
+           
+	</tr>
+          
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                07130041
+            </td>
+            <td class="td_n">
+            	 90
+            </td>
+            <td class="td_n">
+                 自然科学简史
+            </td>
+            <td class="td_n">
+                 Brief History of Natural Science
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">83.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                07131491
+            </td>
+            <td class="td_n">
+            	 90
+            </td>
+            <td class="td_n">
+                 国内外农业政策比较分析
+            </td>
+            <td class="td_n">
+                 Comparative Analysis　of Domestic and international agricultural policy
+            </td>
+            <td class="td_n">
+                 1.5
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">92.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110280
+            </td>
+            <td class="td_n">
+            	 01
+            </td>
+            <td class="td_n">
+                 计量经济学A　
+            </td>
+            <td class="td_n">
+                 Econometrics A
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">85.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110300
+            </td>
+            <td class="td_n">
+            	 03
+            </td>
+            <td class="td_n">
+                 经济法
+            </td>
+            <td class="td_n">
+                 Economical Law
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">87.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110460
+            </td>
+            <td class="td_n">
+            	 02
+            </td>
+            <td class="td_n">
+                 市场营销学
+            </td>
+            <td class="td_n">
+                 Marketing Principles
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">90.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110970
+            </td>
+            <td class="td_n">
+            	 01
+            </td>
+            <td class="td_n">
+                 货币银行学
+            </td>
+            <td class="td_n">
+                 Money and Banking
+
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">86.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                12110640
+            </td>
+            <td class="td_n">
+            	 01
+            </td>
+            <td class="td_n">
+                 大学英语（五）
+            </td>
+            <td class="td_n">
+                 College English (5)
+            </td>
+            <td class="td_n">
+                 4
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">89.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                16130534
+            </td>
+            <td class="td_n">
+            	 11
+            </td>
+            <td class="td_n">
+                 排球（4）
+            </td>
+            <td class="td_n">
+                 Volleyball (4)
+            </td>
+            <td class="td_n">
+                 1
+            </td>
+            <td class="td_n">
+                 选修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">90.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                58140010
+            </td>
+            <td class="td_n">
+            	 100
+            </td>
+            <td class="td_n">
+                 大学生科研训练（URP）
+            </td>
+            <td class="td_n">
+                 Undergraduate Research Program (URP)
+
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 任选
+            </td>
+            <td class="td_n">
+            
+              <p align="left">优秀&nbsp;</P>
+          </td>
+        </tr>
+        
+     </table>
+         <table width="100%" align="center" cellpadding="0" cellspacing="0">
+           <tr>
+       		<td height="21" bgcolor="#F2F2F2">
+                最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;22.5&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;9&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;9
+        	</td>
+           </tr>
+	</table>
+        
+    	<a name="2007-2008学年夏(三学期)" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+ </STYLE>
+	<table width="100%" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td class=td_bj_photo>2007-2008学年夏(三学期)</td>
+                      </tr>
+         </table>
+          <table  width="100%" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#A9C8F1">
+                      <tr bgcolor="#DEEAFA">
+             
+       		<td class="td_k">
+                    课程号
+           	</td>
+           
+       		<td class="td_k">
+                    课序号
+           	</td>
+           
+       		<td class="td_k">
+                    课程名
+           	</td>
+           
+       		<td class="td_k">
+                    英文课程名
+           	</td>
+           
+       		<td class="td_k">
+                    学分
+           	</td>
+           
+       		<td class="td_k">
+                    课程属性
+           	</td>
+           
+       		<td class="td_k">
+                    成绩
+           	</td>
+           
+	</tr>
+          
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11140130
+            </td>
+            <td class="td_n">
+            	 1
+            </td>
+            <td class="td_n">
+                 社会调查
+            </td>
+            <td class="td_n">
+                 Social Investigation	
+            </td>
+            <td class="td_n">
+                 4
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">91.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11140180
+            </td>
+            <td class="td_n">
+            	 3
+            </td>
+            <td class="td_n">
+                 专业认识实习
+            </td>
+            <td class="td_n">
+                 Practice for the Recognition of Specialties
+
+            </td>
+            <td class="td_n">
+                 1
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">95.0&nbsp;</P>
+             </td>
+        </tr>
+        
+     </table>
+         <table width="100%" align="center" cellpadding="0" cellspacing="0">
+           <tr>
+       		<td height="21" bgcolor="#F2F2F2">
+                最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;5.0&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;2&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;2
+        	</td>
+           </tr>
+	</table>
+        
+    	<a name="2008-2009学年秋(三学期)" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+ </STYLE>
+	<table width="100%" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td class=td_bj_photo>2008-2009学年秋(三学期)</td>
+                      </tr>
+         </table>
+          <table  width="100%" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#A9C8F1">
+                      <tr bgcolor="#DEEAFA">
+             
+       		<td class="td_k">
+                    课程号
+           	</td>
+           
+       		<td class="td_k">
+                    课序号
+           	</td>
+           
+       		<td class="td_k">
+                    课程名
+           	</td>
+           
+       		<td class="td_k">
+                    英文课程名
+           	</td>
+           
+       		<td class="td_k">
+                    学分
+           	</td>
+           
+       		<td class="td_k">
+                    课程属性
+           	</td>
+           
+       		<td class="td_k">
+                    成绩
+           	</td>
+           
+	</tr>
+          
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110060
+            </td>
+            <td class="td_n">
+            	 01
+            </td>
+            <td class="td_n">
+                 财政学
+            </td>
+            <td class="td_n">
+                 Finance
+            </td>
+            <td class="td_n">
+                 2.5
+            </td>
+            <td class="td_n">
+                 限选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">86.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110140
+            </td>
+            <td class="td_n">
+            	 01
+            </td>
+            <td class="td_n">
+                 管理信息系统
+            </td>
+            <td class="td_n">
+                 Management Information System
+            </td>
+            <td class="td_n">
+                 4
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">95.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110180
+            </td>
+            <td class="td_n">
+            	 70
+            </td>
+            <td class="td_n">
+                 国际贸易B
+            </td>
+            <td class="td_n">
+                 International Trade B
+            </td>
+            <td class="td_n">
+                 2.5
+            </td>
+            <td class="td_n">
+                 选修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">94.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110310
+            </td>
+            <td class="td_n">
+            	 70
+            </td>
+            <td class="td_n">
+                 经济数学
+            </td>
+            <td class="td_n">
+                 Economic Mathematics
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 选修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">99.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110910
+            </td>
+            <td class="td_n">
+            	 01
+            </td>
+            <td class="td_n">
+                 财务管理学
+            </td>
+            <td class="td_n">
+                 Financial Management Theory  
+
+            </td>
+            <td class="td_n">
+                 2.5
+            </td>
+            <td class="td_n">
+                 限选
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">85.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11110920
+            </td>
+            <td class="td_n">
+            	 01
+            </td>
+            <td class="td_n">
+                 财务会计
+            </td>
+            <td class="td_n">
+                 Financial Accounting
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">92.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11111020
+            </td>
+            <td class="td_n">
+            	 01
+            </td>
+            <td class="td_n">
+                 商业银行实务
+            </td>
+            <td class="td_n">
+                 Commercial Banks  Practice
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 选修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">95.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11111060
+            </td>
+            <td class="td_n">
+            	 01
+            </td>
+            <td class="td_n">
+                 证券投资学
+            </td>
+            <td class="td_n">
+                 Security Investment
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">90.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11130022
+            </td>
+            <td class="td_n">
+            	 70
+            </td>
+            <td class="td_n">
+                 商务谈判
+            </td>
+            <td class="td_n">
+                 Business Negotiation
+
+            </td>
+            <td class="td_n">
+                 1.5
+            </td>
+            <td class="td_n">
+                 选修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">90.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11130962
+            </td>
+            <td class="td_n">
+            	 70
+            </td>
+            <td class="td_n">
+                 期货贸易
+            </td>
+            <td class="td_n">
+                 Futures Trade
+
+            </td>
+            <td class="td_n">
+                 2
+            </td>
+            <td class="td_n">
+                 选修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">90.0&nbsp;</P>
+             </td>
+        </tr>
+        
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11131092
+            </td>
+            <td class="td_n">
+            	 70
+            </td>
+            <td class="td_n">
+                 农业经济
+            </td>
+            <td class="td_n">
+                 Agriculture Economics
+            </td>
+            <td class="td_n">
+                 3
+            </td>
+            <td class="td_n">
+                 选修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">91.0&nbsp;</P>
+             </td>
+        </tr>
+        
+     </table>
+         <table width="100%" align="center" cellpadding="0" cellspacing="0">
+           <tr>
+       		<td height="21" bgcolor="#F2F2F2">
+                最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;28.0&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;11&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;11
+        	</td>
+           </tr>
+	</table>
+        
+    	<a name="2008-2009学年春(三学期)" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+ </STYLE>
+	<table width="100%" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td class=td_bj_photo>2008-2009学年春(三学期)</td>
+                      </tr>
+         </table>
+          <table  width="100%" border="0" align="center" cellpadding="3" cellspacing="1" bgcolor="#A9C8F1">
+                      <tr bgcolor="#DEEAFA">
+             
+       		<td class="td_k">
+                    课程号
+           	</td>
+           
+       		<td class="td_k">
+                    课序号
+           	</td>
+           
+       		<td class="td_k">
+                    课程名
+           	</td>
+           
+       		<td class="td_k">
+                    英文课程名
+           	</td>
+           
+       		<td class="td_k">
+                    学分
+           	</td>
+           
+       		<td class="td_k">
+                    课程属性
+           	</td>
+           
+       		<td class="td_k">
+                    成绩
+           	</td>
+           
+	</tr>
+          
+        <tr bgcolor="#FFFFFF">
+            <td class="td_n">
+                11111030
+            </td>
+            <td class="td_n">
+            	 70
+            </td>
+            <td class="td_n">
+                 项目融资与项目管理
+            </td>
+            <td class="td_n">
+                 Project Financing and Management
+            </td>
+            <td class="td_n">
+                 2.5
+            </td>
+            <td class="td_n">
+                 必修
+            </td>
+            <td class="td_n">
+            
+              		<p align="left">90.0&nbsp;</P>
+             </td>
+        </tr>
+        
+     </table>
+         <table width="100%" align="center" cellpadding="0" cellspacing="0">
+           <tr>
+       		<td height="21" bgcolor="#F2F2F2">
+                最低修读学分：&nbsp;24.0&nbsp;已修读课程总学分：&nbsp;&nbsp;2.5&nbsp;&nbsp;已修读课程门数:&nbsp;&nbsp;1&nbsp;&nbsp;通过课程门数:&nbsp;&nbsp;1
+        	</td>
+           </tr>
+	</table>
+        
+	</td>
